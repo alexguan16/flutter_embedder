@@ -5,7 +5,7 @@ homepage: https://github.com/ldwformat/flutter_embedder
 repository: https://github.com/ldwformat/flutter_embedder
 
 environment:
-  sdk: ^3.10.4
+  sdk: ^3.0.0
   flutter: '>=3.3.0'
 
 dependencies:
