@@ -43,7 +43,7 @@ Future<void> initFlutterEmbedder({
     ffi.DynamicLibrary.open(path);
   }
 
-  initOrt(name: name, path: path);
+  //initOrt(name: name, path: path);
 
   _inited = true;
 }
